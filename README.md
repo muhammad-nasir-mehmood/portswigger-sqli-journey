@@ -18,6 +18,7 @@ This repository contains my practice work, solutions, and screenshots from the P
 - **Lab Name:** SQL injection vulnerability allowing login bypass
 - **Description:** In this lab, an SQL injection vulnerability was present in the login functionality. By injecting the SQL comment payload `administrator'--` into the username parameter, the password verification logic was commented out, allowing authentication bypass directly as the `administrator` user.
 - **Burp Suite Repeater Analysis:**
-  - * ![Lab 2 - Burp Suite Request & Response](sql2.jpg)
+  -<img width="960" height="511" alt="sql 2" src="https://github.com/user-attachments/assets/251f2aee-3058-4245-9b8f-42532340ff31" />
+
 - **Lab Solved Proof:**
   - ![Lab 2 - Login Bypass Success](sql%202%20ss.PNG)
