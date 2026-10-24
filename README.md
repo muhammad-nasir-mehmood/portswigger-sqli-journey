@@ -30,8 +30,7 @@ This repository contains my practice work, solutions, and screenshots from the P
 - **Lab Name:** SQL injection attack, querying the database type and version on Oracle
 - **Description:** Explored an SQL injection vulnerability on an Oracle database using `UNION SELECT` queries to extract database architecture and table metadata.
 - **Burp Suite Repeater Setup:**
-  - ![Uploading sql 2 ss.PNG…]()
-![Uploading sql 2 ss.PNG…]()
+  
 <img width="960" height="511" alt="sql 3 ss" src="https://github.com/user-attachments/assets/71224211-829f-4c43-a4ae-9b4e3c960221" />
 
 - **Database Table Extraction:**
